@@ -1,0 +1,35 @@
+/*面板分割*/
+.div-border {
+  border: 1px solid #dcdee2;
+  padding: 10px;
+}
+
+/*左右向滚动条隐藏*/
+.ivu-table-tip, .ivu-table-overflowX {
+  overflow-x: hidden;
+}
+
+/*搜索按钮*/
+.searchBtn {
+  margin: 0 10px;
+}
+
+/*分割线*/
+.ivu-divider-horizontal {
+  height: 2px;
+}
+
+/*分页控件*/
+.tab_footer {
+  margin-top: 10px;
+  text-align: center;
+  overflow: hidden;
+}
+.ivu-page-total {
+  float: left;
+  margin-left: 15px;
+}
+.ivu-page-options {
+  float: right;
+  margin-right: 15px;
+}
